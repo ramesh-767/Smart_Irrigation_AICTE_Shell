@@ -55,8 +55,6 @@ Open Irrigation_System.ipynb
 
 Run cell by cell using Shift + Enter
 
-✅ In Google Colab Visit: https://colab.research.google.com
-
 Upload the notebook and dataset
 
 Run in the browser with no installation
